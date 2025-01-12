@@ -5,7 +5,7 @@
   - Technical skills: Programming, IoT tools, and software development.
   - Soft skills: Communication, teamwork, and problem-solving.
   - Career strategies: Lifelong learning and industry readiness.
-- **Reflections**: Insights and takeaways from team members on applying the lessons learned in their academic and professional journeys.
+- **Reflections**: Insights and takeaways from team members on applying the lessons learned in their academic and coming life.
 
 ## Useful Links
 - [Industrial Talk part1](https://youtu.be/DsyUG9y2Lzg)
@@ -19,8 +19,7 @@
 - **Mathaba Hassan Mohamed Hassan**
 - **Hodan Hassan Abdilahi**
 
-## How to Use
-This repository is a resource for understanding key strategies to succeed in IT-related fields. It can serve as inspiration for university projects, industry preparation, or personal development.
+
 
 ---
 
